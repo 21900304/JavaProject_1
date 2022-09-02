@@ -22,7 +22,7 @@ public class WordManager {
                 +"7. 파일 수정\n"
                 +"0. 프로그램 종료\n"
                 +"******************\n"
-                +"=> 원하는 메뉴는?");
+                +"=> 원하는 메뉴는?\n");
         return s.nextInt();
     }
     public void start()
