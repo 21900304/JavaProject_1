@@ -3,3 +3,7 @@
 
 ### 1주차 실행결과
 <img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%EA%B2%B0%EA%B3%BC1.png?raw=true'></img>
+<img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%EA%B2%B0%EA%B3%BC2.png?raw=true'></img>
+<img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%EA%B2%B0%EA%B3%BC3.png?raw=true'></img>
+<img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%EA%B2%B0%EA%B3%BC4.png?raw=true'></img>
+<img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%EA%B2%B0%EA%B3%BC5.png?raw=true'></img>
