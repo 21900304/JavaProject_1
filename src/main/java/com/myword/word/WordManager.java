@@ -20,6 +20,7 @@ public class WordManager {
                 +"5. 단어 수정\n"
                 +"6. 단어 삭제\n"
                 +"7. 파일 수정\n"
+                +"0. 프로그램 종료\n"
                 +"******************\n"
                 +"=> 원하는 메뉴는?");
         return s.nextInt();
@@ -30,7 +31,11 @@ public class WordManager {
         {
             int menu = selectMenu();
             //System.out.println(menu);
-            if(menu == 0) break;
+            if(menu == 0)
+            {
+                System.out.println("프로그램 종료! 담에 만나요~");
+                break;
+            }
             if(menu == 4)
             {
                 wordCRUD.addWord();
