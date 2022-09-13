@@ -39,6 +39,7 @@ public class WordManager {
             if(menu == 4)
             {
                 wordCRUD.addItem();
+
             }
             else if(menu==1)
             {
