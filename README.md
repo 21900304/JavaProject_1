@@ -16,8 +16,14 @@
 
 ## 실전 프로젝트  보고서
 #### [단어 수정]
+<img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%EB%8B%A8%EC%96%B4%20%EC%88%98%EC%A0%95-1.png?raw=true'></img>
+<img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%EB%8B%A8%EC%96%B4%20%EC%88%98%EC%A0%95-2.png?raw=true'></img>
 #### [단어 삭제]
+<img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%EB%8B%A8%EC%96%B4%20%EC%82%AD%EC%A0%9C-1.png?raw=true'></img>
+<img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%EB%8B%A8%EC%96%B4%20%EC%82%AD%EC%A0%9C-2.png?raw=true'></img>
 #### [파일 저장]
+<img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%ED%8C%8C%EC%9D%BC%20%EC%A0%80%EC%9E%A5-1.png?raw=true'></img>
+<img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/test.png?raw=true'></img>
 #### [모든 단어 보기]
 #### [수준 별 단어 보기]
 #### [단어 검색]
