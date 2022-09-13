@@ -15,3 +15,10 @@
 <img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%EA%B2%B0%EA%B3%BC5.png?raw=true'></img>
 
 ## 실전 프로젝트  보고서
+#### [단어 수정]
+#### [단어 삭제]
+#### [파일 저장]
+#### [모든 단어 보기]
+#### [수준 별 단어 보기]
+#### [단어 검색]
+#### [프로그램 종료]
