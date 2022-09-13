@@ -173,7 +173,6 @@ public class WordCRUD implements ICRUD{
             {
                 pr.write(one.toFileString()+"\n");
             }
-
             pr.close();
             System.out.println("==> 데이터 저장 완료");
         }
