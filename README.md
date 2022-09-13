@@ -14,7 +14,8 @@
 #### [프로그램 종료]
 <img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%EA%B2%B0%EA%B3%BC5.png?raw=true'></img>
 
-## 실전 프로젝트  보고서
+## 실전 프로젝트 최종 보고서
+### 2주차 실행결과
 #### [단어 수정]
 <img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%EB%8B%A8%EC%96%B4%20%EC%88%98%EC%A0%95-1.png?raw=true'></img>
 <img src='https://github.com/21900304/JavaProject_1/blob/master/screenShot/%EB%8B%A8%EC%96%B4%20%EC%88%98%EC%A0%95-2.png?raw=true'></img>
