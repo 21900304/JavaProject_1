@@ -34,7 +34,6 @@ public class WordCRUD implements ICRUD{
         Word one = (Word)add();
         list.add(one);
         System.out.println("새 단어가 단어장에 추가되었습니다.");
-
     }
 
     @Override
@@ -52,7 +51,6 @@ public class WordCRUD implements ICRUD{
     @Override
     public void selectone(int id) {
         // TODO Auto-generated method stub
-
     }
     public void listAll()
     {
@@ -94,7 +92,6 @@ public class WordCRUD implements ICRUD{
             j++;
         }
         System.out.println("-------------------------");
-
     }
 
     public void updateItem()
@@ -198,5 +195,4 @@ public class WordCRUD implements ICRUD{
         String keyword = s.next();
         listAll(keyword);
     }
-
 }

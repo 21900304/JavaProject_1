@@ -65,9 +65,6 @@ public class WordManager {
             {
                 wordCRUD.saveFile();
             }
-
-
-
         }
 
     }
