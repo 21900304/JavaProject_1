@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c74a549a-1a96-415c-b864-e5a999040f93" name="Changes" comment="print-&gt; println으로 수정">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myword/word/WordCRUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myword/word/WordCRUD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myword/word/WordManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myword/word/WordManager.class" afterDir="false" />
+    <list default="true" id="c74a549a-1a96-415c-b864-e5a999040f93" name="Changes" comment="코드에 불필요한 공간 없애기/다듬기">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myword/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/myword/word/WordCRUD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +80,7 @@
       <workItem from="1662462603544" duration="5524000" />
       <workItem from="1662468222217" duration="23000" />
       <workItem from="1663030823172" duration="3330000" />
-      <workItem from="1663065681399" duration="2808000" />
+      <workItem from="1663065681399" duration="3285000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1662119162118</created>
@@ -126,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663066540790</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="자간 다듬기/출력 문장 다듬기">
+      <created>1663068729381</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663068729381</updated>
+    </task>
+    <task id="LOCAL-00008" summary="코드에 불필요한 공간 없애기/다듬기">
+      <created>1663068793687</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663068793687</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +162,9 @@
     <MESSAGE value="수준별 단어보기/ 단어 검색 기능 추가" />
     <MESSAGE value="단어 삭제/ 파일 저장 기능 추가" />
     <MESSAGE value="print-&gt; println으로 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="print-&gt; println으로 수정" />
+    <MESSAGE value="자간 다듬기/출력 문장 다듬기" />
+    <MESSAGE value="코드에 불필요한 공간 없애기/다듬기" />
+    <option name="LAST_COMMIT_MESSAGE" value="코드에 불필요한 공간 없애기/다듬기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

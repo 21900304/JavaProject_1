@@ -172,7 +172,6 @@ public class WordCRUD implements ICRUD{
             for(Word one : list)
             {
                 pr.write(one.toFileString()+"\n");
-
             }
 
             pr.close();
